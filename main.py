@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-import telegram_token as tg_token
+import private.telegram_token as tg_token
 
 # Замените 'YOUR_BOT_TOKEN' на ваш токен, полученный от BotFather
 bot = tg_token.bot
